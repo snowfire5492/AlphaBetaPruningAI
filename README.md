@@ -11,7 +11,7 @@ Your program should also ask the user to decide who is going to move
 first.
  Program must use alpha-beta pruning to determine computers move. 
 will need to make some changes to alpha-beta pruning introduced in book. 
-These include: an evaluation 
+	These include: an evaluation 
 function so that you can evaluate non-terminal states and a cut-off test 
 to replace the terminal test so that your program 
 will return the best solution found so far given a specific period of 
