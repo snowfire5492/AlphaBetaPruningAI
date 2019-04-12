@@ -1,4 +1,4 @@
-# Alpha Beta Pruning Artificial Inteligent game playing agent
+# Alpha Beta Pruning Artificial Intelligent game playing agent
 
 
 Make a program to play a (4-in-a-line) game on an 8x8 board. Players 
